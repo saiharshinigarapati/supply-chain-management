@@ -1,6 +1,6 @@
 # README
 ## Table Of Contents
--   [Video](#video)
+
 -   [Run in Intellij IDEA (recommend)](#run-in-intellij-idea)
 -   [Run in Spring Tool Suite](#run-in-spring-tool-suite)
 
@@ -92,8 +92,7 @@ supplychain/entity/     # Some custom Types for process model.
 └── WPort.java
 ```
 
-## Video
-[Demo video](https://www.dropbox.com/s/kvhavse90hicdi9/cases_demo.mp4?dl=0)
+
 
 ## Run in `Intellij IDEA`
 1.  Download development tool:
